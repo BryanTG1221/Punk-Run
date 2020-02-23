@@ -1,0 +1,9 @@
+Dev Log 1.0.001
+
+Felipe Mtz
+-Agregué el sprite y animación del vehículo(el sprite en la carpeta CHARACTERS y a animación en carpeta Animations)
+
+-Agregué un control de prueba sujeto a cambios agregando movimientos a la derecha e izquierda complementando los de arriba y abajo en una
+variable llamada Xincremento con velocidad 3, con un movimiento en X de 5(SUJETO A CAMBIOS).
+
+Fin del Log Report.
